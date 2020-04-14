@@ -1,5 +1,7 @@
 # element-ui-table-auto-height
 
+## 说明文章： [ELEMENT-UI EL-TABLE 表格高度自适应问题解决方案](https://evolly.one/2020/04/14/128-element-ui-table-auto-height/)
+
 ## Project setup
 ```
 npm install
